@@ -11,9 +11,7 @@ public class Example1 {
             System.out.println("main Branch change");
             System.out.println("rebase");
             System.out.println("shweta sub");
-
-            System.out.println("shweta sub");
-
+            System.out.println("demo2 branch");
         }
 
         static int linearSearch(int[] arr,int target){
