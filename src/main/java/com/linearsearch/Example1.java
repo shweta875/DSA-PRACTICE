@@ -9,7 +9,7 @@ public class Example1 {
             int indexNum=linearSearch(num,18);
             System.out.println(indexNum);
             System.out.println("main Branch change");
-
+            System.out.println("demo2 branch");
         }
 
         static int linearSearch(int[] arr,int target){
