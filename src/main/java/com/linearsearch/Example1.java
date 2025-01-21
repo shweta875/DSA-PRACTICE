@@ -12,6 +12,8 @@ public class Example1 {
             System.out.println("rebase");
             System.out.println("shweta sub");
 
+            System.out.println("shweta sub");
+
         }
 
         static int linearSearch(int[] arr,int target){
