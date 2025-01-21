@@ -9,6 +9,8 @@ public class Example1 {
             int indexNum=linearSearch(num,18);
             System.out.println(indexNum);
 
+            System.out.println("shweta sub");
+
         }
 
         static int linearSearch(int[] arr,int target){
