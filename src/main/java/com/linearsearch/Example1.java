@@ -8,6 +8,7 @@ public class Example1 {
             int[] num={1,2,3,4,5,6,7,8,9,14,375};
             int indexNum=linearSearch(num,18);
             System.out.println(indexNum);
+            System.out.println("main Branch change");
 
         }
 
